@@ -8,9 +8,9 @@ import "swiper/css/pagination";
 
 const SectionFive = () => {
     return (
-        <div className='container mt-[100px]'>
+        <div className='container mt-[100px] overflow-x-hidden'>
 
-            <div className=' pb-12 text-4xl'>
+            <div className=' pb-12 text-2xl md:text-4xl'>
             Trusted by Leading Brands & Startups
             </div>
             <Swiper

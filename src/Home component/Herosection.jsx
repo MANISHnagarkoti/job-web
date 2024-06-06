@@ -24,7 +24,7 @@ const Herosection = () => {
             </div>
 
             <div>
-              <img src="homeimg/herosecOne.png" className="w-[60%] lg:w-full"  alt="" />
+              <img src="homeimg/herosecOne.png" className="w-[80%] lg:w-full"  alt="" />
             </div>
           </div>
 
